@@ -22,8 +22,6 @@
 
 
 
-[][]
-
 
 [1]: ./res/books/中文-以太坊白皮书.pdf	"[中文]-以太坊白皮书.pdf"
 [2]: ./res/books/缔造Filecoin经济.pdf	"缔造Filecoin经济.pdf"
