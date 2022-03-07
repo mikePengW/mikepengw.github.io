@@ -1,26 +1,35 @@
 # *美丽的花园，美丽的花*
 
-<img src="./images/4dae828a5c42472be38a1c77aaf74456.jpeg" alt="4dae828a5c42472be38a1c77aaf74456" style="zoom:100%;" />
+<img src="./res/images/4dae828a5c42472be38a1c77aaf74456.jpeg" alt="4dae828a5c42472be38a1c77aaf74456" />
 
 ### 目录
 
 #### 区块链
 
-​		#连接到本地test.md [test][1]
-​		#连接到本地test1.md [test1][2]
+​		[[中文]-以太坊白皮书.pdf][1]
+
+​		[缔造Filecoin经济.pdf][2]
 
 #### 其他
 
-​		#连接到本地test2.md [test2][3]
+​		[美国反对美国(王沪宁)-上海文艺出版社1991.pdf][3]
+
+​		[深圳赛格广场建设项目评析.pdf][4]
+
+​		[中国人民银行工作论文-关于我国人口转型的认识和应对之策.pdf][5]
 
 
 
 
-[1]: ./blockchain/test.md	"test"
-[2]: ./blockchain/test1.md	"test1"
-[3]: ./blockchain/test2.md	"test2"
+
+[][]
 
 
+[1]: ./res/books/中文-以太坊白皮书.pdf	"[中文]-以太坊白皮书.pdf"
+[2]: ./res/books/缔造Filecoin经济.pdf	"缔造Filecoin经济.pdf"
+[3]: ./res/books/美国反对美国(王沪宁)-上海文艺出版社1991.pdf	"test2"
+[4]: ./res/books/深圳赛格广场建设项目评析.pdf	"深圳赛格广场建设项目评析.pdf"
+[5]: ./res/books/中国人民银行工作论文-关于我国人口转型的认识和应对之策.pdf	"中国人民银行工作论文-关于我国人口转型的认识和应对之策.pdf"
 
 
 
