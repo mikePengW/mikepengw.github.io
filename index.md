@@ -23,7 +23,7 @@
 
 
 
-[1]: ./res/books/中文-以太坊白皮书.pdf	"[中文]-以太坊白皮书.pdf"
+[1]: ./res/books/[中文]-以太坊白皮书.pdf	"[中文]-以太坊白皮书.pdf"
 [2]: ./res/books/缔造Filecoin经济.pdf	"缔造Filecoin经济.pdf"
 [3]: ./res/books/美国反对美国(王沪宁)-上海文艺出版社1991.pdf	"test2"
 [4]: ./res/books/深圳赛格广场建设项目评析.pdf	"深圳赛格广场建设项目评析.pdf"
